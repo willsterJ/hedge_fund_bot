@@ -1,0 +1,3 @@
+services:
+  hedge_fund_bot:
+    build: .
